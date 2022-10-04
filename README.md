@@ -1,8 +1,8 @@
 # FDS_midterm
 ## Member
-1. Trần Quang Diệu - 201390
-2. Nguyễn Huy Hoàng - 201390
+1. Trần Quang Diệu - 20139066
+2. Nguyễn Huy Hoàng - 20139031
 3. Võ Văn Linh - 20139080
-4. Nguyễn Thị Thảo - 201390
-5. Mai Huỳnh Tuấn Vũ - 201390 
-6. Trần Ngọc Tường Vân - 201390
+4. Nguyễn Thị Thảo - 20139090
+5. Trần Ngọc Tường Vân - 20139097
+6. Mai Huỳnh Tuấn Vũ - 20139098 
