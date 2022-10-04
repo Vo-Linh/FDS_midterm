@@ -6,3 +6,4 @@
 4. Nguyễn Thị Thảo - 20139090
 5. Trần Ngọc Tường Vân - 20139097
 6. Mai Huỳnh Tuấn Vũ - 20139098 
+7. Nguyễn Minh Nhật - 20139082
